@@ -1,0 +1,15 @@
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\bin\Debug\net6.0\alg_laba2(2).exe
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\bin\Debug\net6.0\alg_laba2(2).deps.json
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\bin\Debug\net6.0\alg_laba2(2).runtimeconfig.json
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\bin\Debug\net6.0\alg_laba2(2).dll
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\bin\Debug\net6.0\alg_laba2(2).pdb
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\alg_laba2(2).csproj.AssemblyReference.cache
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\alg_laba2(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\alg_laba2(2).AssemblyInfoInputs.cache
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\alg_laba2(2).AssemblyInfo.cs
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\alg_laba2(2).csproj.CoreCompileInputs.cache
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\alg_laba2(2).dll
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\refint\alg_laba2(2).dll
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\alg_laba2(2).pdb
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\alg_laba2(2).genruntimeconfig.cache
+D:\Visual ptoject\alg_laba2(2)\alg_laba2(2)\obj\Debug\net6.0\ref\alg_laba2(2).dll
